@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.hero {
+    background: #6943FF;
+    padding: 30px;
+    color:white;
+
+}
+
+.main {
+    background: #F4F4F4;
+    padding-top: 15px;
+}
+h1 {
+    margin-top: 0px;
+}
+
+h3{
+    margin-top:0px;
+    color: #5A537B;
+}
+
+#button-el {
+    background: white;
+    border: none;
+    margin-bottom: 15px;
+    width: 500px;
+    height: 108px;
+}
+
+p {
+    color: #353535;
+}
+
+#input-el {
+    height:83px;
+    width: 117px;
+    background: #6943FF;
+    border-radius: 5%;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+
+.inpt-btn {
+    display: block;
+    border-radius: 5%;
+    
+}
+
+#convert {
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    
+}
